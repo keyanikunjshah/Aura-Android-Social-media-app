@@ -1,5 +1,7 @@
  **Aura - Social Media App**
 
+ app/src/main/java/com/Keya/aura -navigate here to view the files in the repo
+
  **Project Synopsis**
 Aura is a social media application designed to allow users to create profiles, follow other users, and share posts. The app provides seamless integration with Firebase for authentication and real-time database management, along with Cloudinary for image hosting. The objective is to offer an interactive and user-friendly platform where users can connect, share updates, and build an online presence.
 
