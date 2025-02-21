@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="cloudinary_url" translatable="false">cloudinary://166358472174135:EDntHZhQYu7SB_YXMLQiinbS3fU@auraapp</string>
+
+</resources>
